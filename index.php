@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1>Welcome to News XYZ</h1>
+    <?php 
+    echo "PHP";
+    ?>
 </body>
 </html>
