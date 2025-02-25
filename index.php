@@ -7,9 +7,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Welcome to News XYZ</h1>
+    <h1>Welcome to News XYZ</h1><br>
     <?php 
     echo "PHP";
     ?>
+    <h2>test</h2>
 </body>
 </html>
